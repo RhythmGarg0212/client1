@@ -1,0 +1,37 @@
+[
+    {
+        "link": "cc",
+        "name": "CC"
+    },
+    {
+      "link": "cg",
+      "name": "CG"
+    },
+    {
+      "link": "cv",
+      "name": "CV"
+    },
+   
+    {
+      "link": "iss",
+      "name": "ISS"
+    },
+    {
+      "link": "iot",
+      "name": "IOT"
+    },
+  
+    {
+      "link": "itc",
+      "name": "ITC"
+    },
+    {
+      "link": "wc",
+      "name": "SNSWC"
+    },
+    {
+      "link": "es",
+      "name": "ES"
+    }
+  ]
+  

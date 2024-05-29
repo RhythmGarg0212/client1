@@ -1,0 +1,49 @@
+[
+  {
+    "sem": "1",
+    "s1": "BE",
+    "s2": "LWS",
+    "s3": "ENV",
+    "s4": "EM1",
+    "s5": "CPCP",
+    "s6": "Innovation",
+    "s7": "FCS"
+  },
+  {
+    "sem": "2",
+    "s1": "DLD",
+    "s2": "CNV",
+    "s3": "Humanity",
+    "s4": "EM2",
+    "s5": "DSA",
+    "s6": "EStudies",
+    "s7": "OOPS"
+  },
+  {
+    "sem": "3",
+    "s1": "TOC",
+    "s2": "DBMS",
+    "s3": "Python",
+    "s4": "EM3",
+    "s5": "COA",
+    "s6": "ADA"
+  },
+  {
+    "sem": "4",
+    "s1": "DS",
+    "s2": "CD",
+    "s3": "OS",
+    "s4": "Java",
+    "s5": "AI",
+    "s6": "CN"
+  },
+  {
+    "sem": "5",
+    "s1": "LNO",
+    "s2": "ML",
+    "s3": "HCI",
+    "s4": "SE",
+    "s5": "CNS",
+    "s6": "IR"
+  }
+]

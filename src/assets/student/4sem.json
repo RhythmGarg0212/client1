@@ -1,0 +1,39 @@
+[
+  {
+    "link": "aec",
+    "name": "AEC"
+  },
+  {
+    "link": "cd",
+    "name": "CD"
+  },
+  {
+    "link": "java",
+    "name": "Java"
+  },
+  {
+    "link": "os",
+    "name": "OS"
+  },
+  {
+    "link": "ds",
+    "name": "DS"
+  },
+  {
+    "link": "cn",
+    "name": "CN"
+  },
+  {
+    "link": "ac",
+    "name": "AC"
+  },
+
+  {
+    "link": "ai",
+    "name": "AI"
+  },
+  {
+    "link": "sns",
+    "name": "SNS"
+  }
+]

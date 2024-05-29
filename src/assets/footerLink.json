@@ -1,0 +1,34 @@
+[
+  {
+    "link": "/",
+    "tag": "Academify"
+  },
+  {
+    "link": "/attendance",
+    "tag": "Attendance"
+  },
+  {
+    "link": "/feedback",
+    "tag": "Feedback"
+  },
+  {
+    "link": "/plagchecker",
+    "tag": "Plagiarism"
+  },
+  {
+    "link": "/assignment",
+    "tag": "Assignment"
+  },
+  {
+    "link": "/budgets",
+    "tag": "Budget"
+  },
+  {
+    "link": "/login",
+    "tag": "Login"
+  },
+  {
+    "link": "/signup",
+    "tag": "Signup"
+  }
+]

@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-yellow: #f9c74f;
+  --color-purple: #9d4edd;
+}
+
+.Budget {
+  text-align: center;
+  padding: 4em 0;
+}
+
+.bg-yellow {
+  background-color: var(--color-yellow);
+}
+
+.bg-purple {
+  background-color: var(--color-purple);
+}
+
+form input {
+  width: 92%;
+  outline: none;
+  padding: 1px solid #fff;
+  padding: 12px 20px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  background: #e4e4e4;
+}
+
+.terms {
+  margin-top: 0.2rem;
+}
+.terms input {
+  height: 1em;
+  width: 1em;
+  vertical-align: middle;
+}
+.terms a {
+  text-decoration: none;
+}
+.member {
+  font-size: 1rem;
+  margin-top: 1.4rem;
+  color: #636363;
+}
+.member a {
+  text-decoration: none;
+}
+.recover {
+  text-align: right;
+  margin: 0.3rem 1.4rem 0 0;
+}
+.recover a {
+  text-decoration: none;
+}
+
+.rotate-3d {
+  transform: rotateY(10deg); /* Adjust the value as per your preference */
+}
+
+.budget {
+  background-color: white;
+}
+
+.budget {
+  background-color: white;
+}
+
+.chart .title {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-input {
+  @apply mt-1 block w-full py-2 px-3 border border-gray-200 bg-white rounded-md focus:outline-none focus:ring-indigo-500 sm:text-sm;
+}

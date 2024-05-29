@@ -1,0 +1,30 @@
+[
+  {
+    "link": "cnv",
+    "name": "CNV"
+  },
+  {
+    "link": "dld",
+    "name": "DLD"
+  },
+  {
+    "link": "dsa",
+    "name": "DSA"
+  },
+  {
+    "link": "oopl",
+    "name": "OOPL"
+  },
+  {
+    "link": "em2",
+    "name": "EM2"
+  },
+  {
+    "link": "humanities",
+    "name": "Humanity"
+  },
+  {
+    "link": "entrestudies",
+    "name": "EntreStudies"
+  }
+]

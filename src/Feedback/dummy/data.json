@@ -1,0 +1,32 @@
+[
+  {
+    "name": "DSA",
+    "link": "/feedback/dsa"
+  },
+
+  {
+    "name": "DLD",
+    "link": "/feedback/dld"
+  },
+  {
+    "name": "EM2",
+    "link": "/feedback/em2"
+  },
+  {
+    "name": "OOPL",
+    "link": "/feedback/oopl"
+  },
+  {
+    "name": "CNV",
+    "link": "/feedback/cnv"
+  },
+  {
+    "name": "EStudies",
+    "link": "/feedback/estudies"
+  },
+
+  {
+    "name": "Humanity",
+    "link": "/feedback/humanity"
+  }
+]

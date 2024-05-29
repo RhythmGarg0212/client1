@@ -1,0 +1,22 @@
+[
+  {
+    "link": "/student/attendanceshow",
+    "tag": "Attendance"
+  },
+  {
+    "link": "/student/marksshow",
+    "tag": "Marks"
+  },
+  {
+    "link": "/feedback",
+    "tag": "Feedback"
+  },
+  {
+    "link": "/update/polls",
+    "tag": "Poll"
+  },
+  {
+    "link": "/assignment",
+    "tag": "Assignment"
+  }
+]
